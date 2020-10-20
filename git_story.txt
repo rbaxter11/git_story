@@ -1,4 +1,4 @@
-this is a story about a developer named Ryan
+This is a story about a developer named Ryan
 he went from grocery store dude to web developer
 with the help of Actualize Bootcamp!
 Now he makes great apps and decent money!
